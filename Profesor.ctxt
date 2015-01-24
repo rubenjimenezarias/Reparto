@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Profesor()
+comment1.params=nombre
+comment1.target=void\ registrarEvaluador(java.lang.String)
+comment2.params=nombre
+comment2.target=void\ registrarPropuesta(java.lang.String)
+comment3.params=
+comment3.target=void\ repartir()
+comment4.params=
+comment4.target=void\ mostrarReparto()
+numComments=5
