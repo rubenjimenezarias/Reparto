@@ -23,15 +23,8 @@ public class Test
         profesor.registrarPropuesta("10");
         profesor.registrarPropuesta("11");
         profesor.registrarPropuesta("12");
-        profesor.registrarPropuesta("13");
-      
         
-        profesor.registrarEvaluador("A");
-        profesor.registrarEvaluador("B");
-        profesor.registrarEvaluador("C");
-        
-        profesor.repartir();
-        profesor.mostrarReparto();
+        profesor.emparejarConCopia();
     }
     
     
